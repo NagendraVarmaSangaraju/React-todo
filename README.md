@@ -1,70 +1,33 @@
-# Getting Started with Create React App
+# React To-Do App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-tomato.svg?style=flat&logo=git)](https://github.com/AnjaliSharma1234/To-Do-App/issues) [![GitHub stars](https://img.shields.io/github/stars/AnjaliSharma1234/To-Do-App.svg?logo=github)](https://github.com/AnjaliSharma1234/To-Do-App/stargazers) [![GitHub forks](https://img.shields.io/github/forks/AnjaliSharma1234/To-Do-App.svg?logo=github&color=teal)](https://github.com/AnjaliSharma1234/SocialMediaProfileLauncher/network) [![GitHub top language](https://img.shields.io/github/languages/top/AnjaliSharma1234/To-Do-App?color=yellow&logo=javascript)](https://github.com/AnjaliSharma1234/To-Do-App)
 
-## Available Scripts
+A simple To-Do App to understand the basic functionality of React and related concepts
 
-In the project directory, you can run:
+This is motivated by [Scrimba](https://scrimba.com/).
 
-### `npm start`
+## Screenshot of the To-Do App
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![](images/todo_screenshot.png)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Tutorial Blog Post
 
-### `npm test`
+The following is my tutorial blog post on ["Learn React by building a To-Do App — React Functionalities Explained"](https://medium.com/mobile-web-dev/learn-react-by-building-a-to-do-app-react-functionalities-explained-74f466e9396)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+So finally, most of the todos for the day are done except the assignment(as always)!
 
-### `npm run build`
+![](images/cmd13.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Project Admin
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[![Relative date](https://img.shields.io/date/1577392258?color=important&label=started&logo=github)](https://github.com/AnjaliSharma1234/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/AnjaliSharma1234/)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+| ![](images/anjali-sharma.png) |
+| :----------------------------------------------------------: |
+| **[Anjali Sharma](https://www.linkedin.com/in/anjalisharmaaa/)**  |
 
-### `npm run eject`
+For more details visit my portfolio at anjalisharma.tech 
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+[![GitHub followers](https://img.shields.io/github/followers/AnjaliSharma1234.svg?label=Follow%20@AnjaliSharma1234&style=social)](https://github.com/AnjaliSharma1234/) [![Twitter Follow](https://img.shields.io/twitter/follow/AnjaliiSharmaaa?style=social)](https://twitter.com/AnjaliiSharmaaa) 
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/AnjaliSharma1234/)
